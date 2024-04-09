@@ -15,7 +15,7 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - Utilização de bootstrap para criação de layouts em sites.
 
 ## Contato
-- Email: felipbr123123123@gmail.com
+- Email: felipeosdev@gmail.com
 - Instagram: @lipe_zkz
 
 ## Certificações
