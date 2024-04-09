@@ -18,7 +18,7 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - Email: felipbr123123123@gmail.com
 - Instagram: @lipe_zkz
 
-## Especificações
+## Certificações
 - 💻Informática para Internet - Novo E.M
 - 💻Administração - UNICAP
 - 💻Computação - UNICAP
