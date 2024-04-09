@@ -1,10 +1,31 @@
-<h1 align="center">Hi!, I am Lipe</h1>
-<h3 align="center">A passionate frontend developer from Brazil, I hope I can always learn how to ...</h3>
+# Olá, meu nome é Felipe Silva
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@lipe_zkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lipe_zkz" height="30" width="40" /></a>
-</p>
+Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionais.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Áreas de Interesse
+- Desenvolvimento Web
+- UI/UX Design
+- Front-End Development
+- Mobile Development
+
+### Projetos:
+- Participação e desenvolvimento front-end em projeto de gerenciamento de biblioteca.
+- Criação e desenvolvimento de sistema de gerenciamento escolar para TCC.
+- Criação utlizando HTML e CSS para a construção de um site de advocacia, transmitindo elegancia ao clientes.
+- Utilização de bootstrap para criação de layouts em sites.
+
+## Contato
+- Email: felipbr123123123@gmail.com
+- Instagram: @lipe_zkz
+
+## Especificações
+- 💻Informática para Internet - Novo E.M
+- 💻Administração - UNICAP
+- 💻Computação - UNICAP
+
+## Habilidades Técnicas
+- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) 
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
+- ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white) 
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
