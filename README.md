@@ -20,8 +20,10 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 
 ## Certificações
 - 💻Informática para Internet - Novo E.M
+- 💻Arduino e Programação - UNESP
 - 💻Administração - UNICAP
 - 💻Computação - UNICAP
+
 
 ## Habilidades Técnicas
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) 
