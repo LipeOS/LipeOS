@@ -19,7 +19,7 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - Instagram: @lipe_zkz
 
 ## Certificações
-- 💻Informática para Internet - Novo E.M
+- 💻Informática para Internet - Ensino Técnico
 - 💻Arduino e Programação - UNESP
 - 💻Administração - UNICAP
 - 💻Computação - UNICAP
