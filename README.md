@@ -1,3 +1,6 @@
+![Welcome to my Github profile!](github-image-profile.gif)
+
+
 # Olá, meu nome é Felipe Silva
 
 Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionais.
