@@ -9,10 +9,10 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - Mobile Development
 
 ### Projetos:
-- Participação e desenvolvimento front-end em projeto de gerenciamento de biblioteca.
 - Criação e desenvolvimento de sistema de gerenciamento escolar para TCC.
-- Criação utlizando HTML e CSS para a construção de um site de advocacia, transmitindo elegancia ao clientes.
-- Utilização de bootstrap para criação de layouts em sites.
+- - **Sistema de Cadastro de Produto (Estoque)**: Desenvolvimento de um sistema completo para gerenciar o cadastro e controle de estoque de produtos, facilitando a administração e organização de inventários.
+- **Sistema de Cadastro de Livros**: Criação de um sistema de registro e gerenciamento de livros para a biblioteca da minha escola estadual, auxiliando no controle de empréstimos e devoluções.
+
 
 ## Contato
 - Email: felipeosdev@gmail.com
