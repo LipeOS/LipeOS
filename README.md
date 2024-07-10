@@ -25,8 +25,8 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - 💻 Computação - UNICAP
 
 ## Habilidades Técnicas
+- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white) 
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) 
 - ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white) 
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
