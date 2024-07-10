@@ -9,10 +9,10 @@ Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionai
 - Mobile Development
 
 ### Projetos:
-- Participação e desenvolvimento front-end em projeto de gerenciamento de biblioteca.
-- Criação e desenvolvimento de sistema de gerenciamento escolar para TCC.
+- Criação e desenvolvimento em projeto de gerenciamento de biblioteca, permitindo a melhor administração da escola.
+- Criação e desenvolvimento de sistema de gerenciamento escolar, trabalho de conclusão de curso.
 - Criação utilizando HTML e CSS para a construção de um site de advocacia, transmitindo elegância aos clientes.
-- Utilização de Bootstrap para criação de layouts em sites.
+- Utilização de Flask para criação e manutenção de sistemas criados em Python.
 
 ## Contato
 - Email: felipeosdev@gmail.com
