@@ -1,32 +1,54 @@
-# Olá, meu nome é Felipe Silva
+# 👋 Olá, eu sou Felipe Silva!  
 
-Desenvolvedor Front-End | Apaixonado por criar interfaces intuitivas e funcionais.
+**Desenvolvedor Front-End | Analista de Suporte Técnico**  
 
-## Áreas de Interesse
-- Desenvolvimento Web
-- UI/UX Design
-- Front-End Development
-- Mobile Development
+## 🚀 Sobre Mim  
+Profissional com experiência em desenvolvimento web e suporte técnico, focado em criar soluções eficientes e interfaces intuitivas.  
 
-### Projetos:
-- Criação e desenvolvimento em projeto de gerenciamento de biblioteca, permitindo a melhor administração da escola.
-- Criação e desenvolvimento de sistema de gerenciamento escolar, trabalho de conclusão de curso.
-- Criação utilizando HTML e CSS para a construção de um site de advocacia, transmitindo elegância aos clientes.
-- Utilização de Flask para criação e manutenção de sistemas criados em Python.
+---
 
-## Contato
-- Email: felipeosdev@gmail.com
-- Instagram: @lipe_zkz
+## 💼 Experiência Profissional  
+### **ThR Softwares**  
+**Analista de Suporte Técnico Nível 1 e 2**  
+- Atendimento e resolução de chamados técnicos  
+- Diagnóstico e solução de problemas em sistemas  
+- Suporte remoto e presencial aos usuários  
+- Documentação de processos técnicos  
 
-## Certificações
-- 💻 Informática para Internet - Ensino Técnico
-- 💻 Arduino e Programação - UNESP
-- 💻 Administração - UNICAP
-- 💻 Computação - UNICAP
+---
 
-## Habilidades Técnicas
-- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white) 
-- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) 
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
-- ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white) 
+## 🛠 Habilidades Técnicas  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</div>
+
+---
+
+## 🎓 Formação e Certificações  
+- **Informática para Internet** - Ensino Técnico  
+- **Arduino e Programação** - UNESP  
+- **Administração** - UNICAP  
+- **Computação** - UNICAP  
+
+---
+
+## 💻 Projetos Destacados  
+- **Sistema de Gerenciamento Escolar** (TCC) - Desenvolvimento full-stack  
+- **Plataforma de Biblioteca Digital** - Melhoria de processos acadêmicos  
+- **Site Institucional para Advogados** - HTML/CSS com design elegante  
+- **Aplicações com Flask** - Desenvolvimento de sistemas Python  
+
+---
+
+## 📫 Contato  
+✉️ Email: [felipeosdev@gmail.com](mailto:felipeosdev@gmail.com)  
+📱 Instagram: [@lipe_zkz](https://instagram.com/lipe_zkz)  
+💼 LinkedIn: [Seu perfil]() *(adicione seu link)*  
+🐱 GitHub: [Seu usuário]() *(adicione seu link)*  
