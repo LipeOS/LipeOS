@@ -50,5 +50,4 @@ Profissional com experiência em desenvolvimento web e suporte técnico, focado 
 ## 📫 Contato  
 ✉️ Email: [felipeosdev@gmail.com](mailto:felipeosdev@gmail.com)  
 📱 Instagram: [@lipe_zkz](https://instagram.com/lipe_zkz)  
-💼 LinkedIn: [Seu perfil]() *(adicione seu link)*  
-🐱 GitHub: [Seu usuário]() *(adicione seu link)*  
+💼 LinkedIn: [Felipe Silva](https://www.linkedin.com/in/felipe-oliveira-silva-9a064930b/)  
